@@ -1,0 +1,34 @@
+Enter the path to the folder containing FITS files: Data/Data_jwst-f115w
+Image data in file Data/Data_jwst-f115w/GalaxyJWf115-42.fits contains non-finite values.
+Image data in file Data/Data_jwst-f115w/GalaxyJWf115-25.fits contains non-finite values.
+Image data in file Data/Data_jwst-f115w/GalaxyJWf115-45.fits contains non-finite values.
+Image data in file Data/Data_jwst-f115w/GalaxyJWf115-34.fits contains non-finite values.
+Gini coefficients and M20 indices have been saved to 'Outputs/JWSTf115/gini_m20_coefficients.csv'.
+
+Enter the path to the folder containing FITS files: Data/Data_jwst-f150w    
+Image data in file Data/Data_jwst-f150w/GalaxyJWf150-42.fits contains non-finite values.
+Image data in file Data/Data_jwst-f150w/GalaxyJWf150-34.fits contains non-finite values.
+Image data in file Data/Data_jwst-f150w/GalaxyJWf150-11.fits contains non-finite values.
+Image data in file Data/Data_jwst-f150w/GalaxyJWf150-25.fits contains non-finite values.
+Image data in file Data/Data_jwst-f150w/GalaxyJWf150-45.fits contains non-finite values.
+Gini coefficients and M20 indices have been saved to 'Outputs/JWSTf150/gini_m20_coefficients.csv'.
+
+Enter the path to the folder containing FITS files: Data/Data_jwst-f277w          
+Image data in file Data/Data_jwst-f277w/GalaxyJWf277-45.fits contains non-finite values.
+Image data in file Data/Data_jwst-f277w/GalaxyJWf277-20.fits contains non-finite values.
+Image data in file Data/Data_jwst-f277w/GalaxyJWf277-34.fits contains non-finite values.
+Image data in file Data/Data_jwst-f277w/GalaxyJWf277-21.fits contains non-finite values.
+Image data in file Data/Data_jwst-f277w/GalaxyJWf277-42.fits contains non-finite values.
+Image data in file Data/Data_jwst-f277w/GalaxyJWf277-25.fits contains non-finite values.
+Gini coefficients and M20 indices have been saved to 'Outputs/JWSTf277/gini_m20_coefficients.csv'.
+
+Enter the path to the folder containing FITS files: Data/Data_jwst-f444w         
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-42.fits contains non-finite values.
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-25.fits contains non-finite values.
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-14.fits contains non-finite values.
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-34.fits contains non-finite values.
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-26.fits contains non-finite values.
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-20.fits contains non-finite values.
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-45.fits contains non-finite values.
+Image data in file Data/Data_jwst-f444w/GalaxyJWf444-21.fits contains non-finite values.
+Gini coefficients and M20 indices have been saved to 'Outputs/JWSTf444/gini_m20_coefficients.csv'.
